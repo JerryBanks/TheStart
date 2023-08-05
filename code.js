@@ -3,9 +3,9 @@
 
 // Create your own Madlibs story!
 
-let animal = prompt("Name a kind of animal (singular):");
-let place = prompt("Name a place:");
-let food = prompt("Name a food (plural):");
+let animal = prompt("Name a kind of monster (singular):");
+let place = prompt("Name a planet:");
+let food = prompt("Name a metal (plural):");
 
 document.write("Here is a story for you!<br>");
 document.write(
